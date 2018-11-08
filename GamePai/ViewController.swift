@@ -97,6 +97,7 @@ class ViewController: UIViewController {
                 button.backgroundColor = UIColor.black
             }
         }
+        
         /*if button.currentTitle == emoji{
             clickCount += 1
             clickCounterLabel.text = String(clickCount)
